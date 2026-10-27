@@ -1,0 +1,11 @@
+debug/main.o
+debug/Database.o
+debug/MainWindow.o
+debug/AddEditVehicleDialog.o
+debug/AddEditDriverDialog.o
+debug/AddEditTripDialog.o
+debug/moc_Database.o
+debug/moc_MainWindow.o
+debug/moc_AddEditVehicleDialog.o
+debug/moc_AddEditDriverDialog.o
+debug/moc_AddEditTripDialog.o

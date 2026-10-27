@@ -1,0 +1,11 @@
+release/main.o
+release/Database.o
+release/MainWindow.o
+release/AddEditVehicleDialog.o
+release/AddEditDriverDialog.o
+release/AddEditTripDialog.o
+release/moc_Database.o
+release/moc_MainWindow.o
+release/moc_AddEditVehicleDialog.o
+release/moc_AddEditDriverDialog.o
+release/moc_AddEditTripDialog.o
